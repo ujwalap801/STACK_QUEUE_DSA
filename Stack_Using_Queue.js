@@ -8,7 +8,7 @@ var MyStack = function() {
  * @param {number} x
  * @return {void}
  */
-MyStack.prototype.push = function(x) {
+MyStack.prototype.push = function(x) {  ///O(1)
   this.q1.push(x);
     
 };
@@ -16,8 +16,8 @@ MyStack.prototype.push = function(x) {
 /**
  * @return {number}
  */
-MyStack.prototype.pop = function() {
-    let n =this.q1.length;
+MyStack.prototype.pop = function() { //O(N)
+    let n =this.q1.length; 
     for(let i=0;i<n-1;i++)
     {
         let frontElement = this.q1.shift();
@@ -37,7 +37,7 @@ MyStack.prototype.pop = function() {
 /**
  * @return {number}
  */
-MyStack.prototype.top = function() {
+MyStack.prototype.top = function() { //O(N)
     let n =this.q1.length;
     for(let i=0;i<n-1;i++)
     {
@@ -52,16 +52,13 @@ MyStack.prototype.top = function() {
    this.q1= this.q2;
    this.q2= temp;
 
-   return ans;
-
-
-    
+   return ans;    
 };
 
 /**
  * @return {boolean}
  */
-MyStack.prototype.empty = function() {
+MyStack.prototype.empty = function() { //0(1)
  
     return this.q1.length ===0;
 
