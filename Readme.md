@@ -6,3 +6,5 @@
 ## [Valid_Paretheses](https://leetcode.com/problems/valid-parentheses/submissions/1736594491/)
 
 ## [MinStack](https://leetcode.com/problems/min-stack/description/)
+
+## [Remove_OuterMost] (https://leetcode.com/problems/remove-outermost-parentheses/description/)
