@@ -8,3 +8,7 @@
 ## [MinStack](https://leetcode.com/problems/min-stack/description/)
 
 ## [Remove_OuterMost] (https://leetcode.com/problems/remove-outermost-parentheses/description/)
+
+## [Evaluate_Reverse_Polish](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+
+
