@@ -86,5 +86,5 @@ for(let i=0;i<tokens.length;i++)
     }
 }
 
-    return Number(stack.pop());
+    return Number(stack[0]);
 };
