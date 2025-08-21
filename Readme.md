@@ -12,3 +12,5 @@
 ## [Evaluate_Reverse_Polish](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 
 ## [NextGreaterElement](https://leetcode.com/problems/next-greater-element-i/description/)
+
+## [DailyTemperature](https://leetcode.com/problems/daily-temperatures/submissions/1743355885/)
