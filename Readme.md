@@ -14,3 +14,5 @@
 ## [NextGreaterElement](https://leetcode.com/problems/next-greater-element-i/description/)
 
 ## [DailyTemperature](https://leetcode.com/problems/daily-temperatures/submissions/1743355885/)
+
+## [Next_Greater_2](https://leetcode.com/problems/next-greater-element-ii/submissions/1743851401/)
